@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my academic projects are available at [https://people.ce.pdn.ac.lk/students/e19/210/](https://people.ce.pdn.ac.lk/students/e19/210/)
 
-- 📝 I regularly write articles on [- pending -](- pending -)
+- 📝 I regularly write articles on Tipsy(Under Develpment)
 
 - 💬 Ask me about **MERN stack, Flutter, Java**
 
