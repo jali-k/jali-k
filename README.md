@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [- pending -](- pending -)
 
-- 💬 Ask me about **MERN stack, Flutter,**
+- 💬 Ask me about **MERN stack, Flutter, Java**
 
 - 📫 How to reach me **jalikuma86@gmail.com**
 
